@@ -8,10 +8,6 @@ h1, h2, h3 {
 }
 
 
-h1, h2, h3 {
-    font-family: "Optima";
-}
-
 h2 {
     color: #3046C5;
 
@@ -19,7 +15,7 @@ h2 {
 
 header h2 {
 
-    color: #064635;
+    color: black;
 }
 
 
